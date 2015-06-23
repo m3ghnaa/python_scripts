@@ -4,4 +4,5 @@
 Week 1 stuff goes here
 
 ##Week 2
-So so
+
+* [Guessing Square Root](https://github.com/meghna97/python_scripts/blob/master/6.001x/guess_square_root.py)
